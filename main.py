@@ -25,8 +25,8 @@ TARGET_URLS = [
     "https://www.ebay.com/sch/i.html?_nkw=vintage+harley+t+shirt&LH_BIN=1&_sop=10"
 ]
 
-DISCORD_BOT_TOKEN = "MTQ3MTU0MjcxMDk5MjM3MTc1Mg.GfBrqI.ptwt60SYZkEZAQCghp509Una17FW_2sFMrPJ3U"
-DISCORD_CHANNEL_ID = "1471542454271348939"
+DISCORD_BOT_TOKEN =""
+DISCORD_CHANNEL_ID = ""
 
 # ปรับเวลาให้ช้าลง ตามที่ขอ (หน่วย: วินาที)
 MIN_WAIT = 20
